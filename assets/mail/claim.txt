@@ -1,0 +1,22 @@
+﻿xlmwallet.co - Stellar Lumen's wallet - (https://xlmwallet.co)
+___________________
+
+An user from xlmwallet.co has sent you {{amount}} XLM.
+Here is the message associated to the payment (if provided) :
+
+##########
+﻿{{message}}﻿﻿
+##########
+
+You can claim the funds by clicking the link below or by copy pasting it in your browser.
+No idea of what Stellar Lumens are? You can learn more at: https://xlmwallet.co/getstarted
+
+CLAIM NOW AT: https://xlmwallet.co/claim?s={{secret_key}}&e={{email}}&es={{emailsecret}}
+
+~~~~~~~~~
+Advanced users:
+PublicKey:  {{account_id}}
+SecretKey:  {{secret_key}}
+
+The sender may have the secret key of the account, it is strongly recommended to move the funds to a new account.
+
